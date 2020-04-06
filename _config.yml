@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "산책"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "코딩 공부를 기록하는 블로그입니다. <br> 잘못되거나 수정할 부분이 있으면 알려주세요."
+  bio              : "코딩 공부를 기록하는 블로그"
   location         : "Republic of Korea"
   email            : #
   links:
